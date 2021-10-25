@@ -1,6 +1,6 @@
 /**
  *  Arquivo: produto.js
- *  Author: Glaucia Lemos
+ *  Author: Amanda Pinheiro
  *  Descrição: arquivo responsável onde tratamos o modelo da classe 'Produto'
  *  Data: 01/10/2021
  *  obs.: http://mongoosejs.com/docs/schematypes.html
